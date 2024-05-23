@@ -1,0 +1,11 @@
+---
+title: "Transvpr: Transformer-based place recognition with multi-level attention aggregation"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'Ruotong Wang<sup>1</sup> **Yanqing Shen**<sup>1</sup>, Weiliang Zuo, Sanping Zhou, Nanning Zheng*'
+date: 2022-07-01
+venue: 'CVPR'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_TransVPR_Transformer-Based_Place_Recognition_With_Multi-Level_Attention_Aggregation_CVPR_2022_paper.pdf'
+---
+
+Visual place recognition is a challenging task for applications such as autonomous driving navigation and mobile robot localization. Distracting elements presenting in complex scenes often lead to deviations in the perception of visual place. To address this problem, it is crucial to integrate information from only task-relevant regions into image representations. In this paper, we introduce a novel holistic place recognition model, TransVPR, based on vision Transformers. It benefits from the desirable property of the self-attention operation in Transformers which can naturally aggregate task-relevant features. Attentions from multiple levels of the Transformer, which focus on different regions of interest, are further combined to generate a global image representation. In addition, the output tokens from Transformer layers filtered by the fused attention mask are considered as key-patch descriptors, which are used to perform spatial matching to re-rank the candidates retrieved by the global image features. The whole model allows end-to-end training with a single objective and image-level supervision. TransVPR achieves state-of-the-art performance on several real-world benchmarks while maintaining low computational time and storage requirements.
