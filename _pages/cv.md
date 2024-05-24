@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[CV](../files/cv.pdf)
+[CV](../images/SYQ-CV-v2405.pdf)
 
 Education
 =========
