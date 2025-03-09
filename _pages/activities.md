@@ -16,6 +16,17 @@ Hope to explore more and enjoy more :\)
 
 ![](../images/eu.png)
 
+## Hiking in Switzerland
+
+<video width="480" height="480" controls="">
+    <source src="../images/hiking.mp4" type="video/mp4">
+</video>
+
+<!-- <iframe 
+src="../images/hiking.mp4" 
+scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe> -->
+
 ## ETHZ RSL
 
 ![](../images/rsl1.jpg)
