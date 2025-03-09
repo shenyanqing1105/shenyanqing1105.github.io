@@ -10,6 +10,18 @@ redirect_from:
 
 Hope to explore more and enjoy more :\)
 
+# During 2023.12.18-2024.12.13
+
+## Europe exploration
+
+![](../images/eu.png)
+
+## ETHZ RSL
+
+![](../images/rsl1.jpg)
+![](../images/rsl2.png)
+![](../images/rsl2.png)
+
 CVPR2023 in Canada
 ==================
 
@@ -32,12 +44,14 @@ scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="tru
 
 Intelligent Vehicles Future Challenge (IVFC) 2023
 =================================================
+
 We won the championship!
 
-![](../images/ivfc2.jpeg){:height="50%" width="50%"}
+![](../images/ivfc2.jpeg)
 
 Intelligent Connected Car Challenge 2022
 ========================================
-We won the championship!
 
-![](../images/ivfc1.jpeg){:height="50%" width="50%"}
+We won the championship! The best team ever for me.
+
+![](../images/ivfc1.jpeg)
