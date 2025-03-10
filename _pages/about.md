@@ -30,8 +30,7 @@ I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://r
 
 ---
 
-Ph.D, Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, 2019.09-2025.12
-
+* Ph.D, Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, 2019.09-2025.12
 * Visiting Ph.D, Robotic Systems Lab, ETH Zurich, 2023.12-2024.12
 * B.S., Electronic and Information Engineering, Xi'an Jiaotong University, 2015.09-2019.06
 
@@ -39,15 +38,13 @@ Ph.D, Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong Universi
 
 ---
 
+See Publications in navigation bar
 
-
-dd
+TBD
 
 # 🏅 Selected Honors and awards
 
 ---
-
-
 
 * **National Scholarship**, Xi’an Jiaotong University, (2016, 2017, 2018, 2020, 2023)
 
