@@ -1,5 +1,5 @@
 ---
-title: "Transvpr: Transformer-based place recognition with multi-level attention aggregation"
+title: "TransVPR: Transformer-based Place Recognition with Multi-level Attention Aggregation"
 collection: publications
 permalink: /publication/transvpr
 excerpt: 'Ruotong Wang<sup>1</sup> **Yanqing Shen**<sup>1</sup>, Weiliang Zuo, Sanping Zhou, Nanning Zheng*'

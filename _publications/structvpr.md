@@ -1,5 +1,5 @@
 ---
-title: "Structvpr: Distill structural knowledge with weighting samples for visual place recognition"
+title: "tructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition"
 collection: publications
 permalink: /publication/structvpr
 excerpt: '**Yanqing Shen**, Sanping Zhou, Jingwen Fu, Ruotong Wang, Shitao Chen, Nanning Zheng*'
