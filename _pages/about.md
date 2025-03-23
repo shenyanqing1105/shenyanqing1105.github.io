@@ -22,7 +22,7 @@ I have published several papers in T-PAMI, CVPR, RA-L, ICRA, IROS, and so on. I 
 
 I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://rsl.ethz.ch/)) as a visiting Ph.D. student, supervised by [Assoc. Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), [Dr. Cesar Cadena](https://www.n.ethz.ch/~cesarc/), and [Dr. Olga Vysotska](https://inf.ethz.ch/people/people-atoz/person-detail.MzI1MTU3.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html). RSL family members are sooooo nice. That's what I'd like to call destiny.
 
-[CV_CN](../files/CV-CN.pdf), [CV_EN](../files/cv.pdf)
+[CV_CN](../files/CV-CN.pdf), [CV_EN](../files/CV-EN.pdf)
 
 # 🔥 News
 
@@ -44,6 +44,20 @@ I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://r
 # 📝 Selected Publications
 
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/structvpr++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=4> <b>StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition </b> </font>
+<p style="margin-bottom: 10px;">
+<font size=2> <b> Yanqing Shen </b>, Sanping Zhou, Jingwen Fu, Ruotong Wang, Shitao Chen, Nanning Zheng* </font>
+</p>
+
+[<font size=2> [Paper] </font>]()
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/forestlpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
