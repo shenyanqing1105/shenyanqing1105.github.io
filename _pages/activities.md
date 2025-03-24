@@ -21,7 +21,6 @@ Hope to explore more and enjoy more :\)
 <video width="480" height="480" controls="">
     <source src="../images/hiking.mp4" type="video/mp4">
 </video>
-
 <!-- <iframe 
 src="../images/hiking.mp4" 
 scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
@@ -42,7 +41,7 @@ CVPR2023 in Canada
 
 ![](../images/cvpr3.jpg){:height="50%" width="50%"}
 
-PS: not in a bar, but the CVPR banquet! Super!
+↓↓ PS: not in a bar, but the CVPR banquet! Super!
 
 <video width="480" height="480" controls="">
     <source src="../images/cvpr4.mp4" type="video/mp4">
