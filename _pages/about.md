@@ -28,10 +28,11 @@ I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://r
 
 ---
 
-* *2025.02* :  One paper is accepted in CVPR 2025.
+* *2025.03* :  One first-author paper is accepted by T-PAMI 2025.
+* *2025.02* :  One first-author paper is accepted by CVPR 2025.
 * *2024.11* :  I was awarded the CMCC scholarship (Top 1%).
-* *2024.01* :  One paper is accepted in ICRA 2024.
-* *2023.02* :  One paper is accepted in CVPR 2023.
+* *2024.01* :  One paper is accepted by ICRA 2024.
+* *2023.02* :  One first-author paper is accepted by CVPR 2023.
 
 # 📖 Educations
 
