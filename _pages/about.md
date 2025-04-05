@@ -29,7 +29,7 @@ I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://r
 ---
 
 * *2025.03* :  One first-author paper is accepted by T-PAMI 2025.
-* *2025.02* :  One first-author paper is accepted by CVPR 2025.
+* *2025.02* :  One first-author paper is accepted by CVPR 2025 (highlight🌟, ~top 10%).
 * *2024.11* :  I was awarded the CMCC scholarship (Top 1%).
 * *2024.01* :  One paper is accepted by ICRA 2024.
 * *2023.02* :  One first-author paper is accepted by CVPR 2023.
@@ -60,7 +60,7 @@ I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://r
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/forestlpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 highlight</div><img src='images/forestlpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size=4> <b> ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images </b> </font>
