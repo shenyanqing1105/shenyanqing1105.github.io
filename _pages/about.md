@@ -15,24 +15,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), Xi'an Jiaotong University ([XJTU](http://en.xjtu.edu.cn/)), under the supervision of [Prof. Nanning Zheng](https://gr.xjtu.edu.cn/en/web/nnzheng).
+I am currently a Zstar Researcher at the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/en).
+I received the Ph.D. degree from the [National Key Laboratory of Human-Machine Hybrid Augmented Intelligence](http://www.aiar.xjtu.edu.cn/), Xi'an Jiaotong University ([XJTU](http://en.xjtu.edu.cn/)), in December 2025, under the supervision of [Prof. Nanning Zheng](https://gr.xjtu.edu.cn/en/web/nnzheng).
 I received the B.E. degree in electronic and information engineering from Xi’an Jiaotong University.
-My research interests mainly include **place recognition, SLAM, representation learning** and **autonomous vehicle**. Now I am learning embodied AI.
-I have published several papers in T-PAMI, CVPR, RA-L, ICRA, IROS, and so on. I am lucky to have opportunities to work with [Assoc. Prof. Sanping Zhou](https://scholar.google.com/citations?user=2Drvv44AAAAJ&hl=zh-CN) and [Assist. Prof ShitaoChen](https://gr.xjtu.edu.cn/web/stchen).
+My research interests mainly include **embodied AI** and **world models**.
+I have published several papers in T-PAMI, CVPR, RA-L, ICRA, IROS, and so on. I am lucky to have had opportunities to work with [Assoc. Prof. Sanping Zhou](https://scholar.google.com/citations?user=2Drvv44AAAAJ&hl=zh-CN) and [Assist. Prof. Shitao Chen](https://gr.xjtu.edu.cn/web/stchen).
 
 I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://rsl.ethz.ch/)) as a visiting Ph.D. student, supervised by [Assoc. Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html), [Dr. Cesar Cadena](https://www.n.ethz.ch/~cesarc/), and [Dr. Olga Vysotska](https://inf.ethz.ch/people/people-atoz/person-detail.MzI1MTU3.TGlzdC8zMDQsLTIxNDE4MTU0NjA=.html). RSL family members are sooooo nice. That's what I'd like to call destiny.
-
-[CV_CN](../files/CV-CN.pdf), [CV_EN](../files/CV-EN.pdf)
 
 # 🔥 News
 
 ---
 
+* *2026.08* :  Our team released [PRM-as-a-Judge 1.5](https://prm-as-a-judge.github.io/index.html), a toolkit for dense robot trajectory evaluation.
+* *2026.07* :  Our team released [Orca](https://orca-wm.github.io/), a world model for next-state prediction.
+* *2026.03* :  I joined the [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/en) as a Zstar Researcher.
+* *2025.12* :  I received the Ph.D. degree from Xi'an Jiaotong University.
 * *2025.03* :  One first-author paper is accepted by T-PAMI 2025.
 * *2025.02* :  One first-author paper is accepted by CVPR 2025 (highlight🌟, ~top 10%).
 * *2024.11* :  I was awarded the CMCC scholarship (Top 1%).
 * *2024.01* :  One paper is accepted by ICRA 2024.
 * *2023.02* :  One first-author paper is accepted by CVPR 2023.
+
+# 💼 Experiences
+
+---
+
+* Zstar Researcher (智星研究员), Beijing Academy of Artificial Intelligence ([BAAI](https://www.baai.ac.cn/en)), 2026.03-present
 
 # 📖 Educations
 
@@ -45,6 +54,38 @@ I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://r
 # 📝 Selected Publications
 
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/prm-as-a-judge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=4> <b>PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment </b> </font>
+<p style="margin-bottom: 10px;">
+<font size=2> Yuyang Liu<sup>*</sup>, <b> Yanqing Shen<sup>*</sup> </b>, Ruike Chen, Jifan Zhao, et al. </font>
+</p>
+
+[<font size=2> [Paper] </font>](https://arxiv.org/pdf/2608.14284)
+[<font size=2> [Project] </font>](https://prm-as-a-judge.github.io/index.html)
+[<font size=2> [Code] </font>](https://github.com/YuyangLiu2003/PRM-as-a-Judge)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/orca.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=4> <b>Orca: The World is in Your Mind </b> </font>
+<p style="margin-bottom: 10px;">
+<font size=2> Yihao Wang, Yuheng Ji, Mingyu Cao, <b> Yanqing Shen </b>, et al. </font>
+</p>
+
+[<font size=2> [Paper] </font>](https://arxiv.org/pdf/2606.30534)
+[<font size=2> [Project] </font>](https://orca-wm.github.io/)
+[<font size=2> [Code] </font>](https://github.com/orca-wm/Orca)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/structvpr++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
