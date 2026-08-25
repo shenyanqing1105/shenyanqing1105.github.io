@@ -135,7 +135,6 @@ I am lucky to have opportunities to work at Robotic Systems Lab ([RSL](https://r
 * Outstanding Undergraduate Graduates in Xi’an Jiaotong University, 2019
 * Outstanding Student, Xi’an Jiaotong University, (2016, 2017, 2018, 2020)
 
-# 🏀 Hobbies
+# ✨ Hobbies
 
-{:.meta-list}
-* Basketball (I am a big fan of [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry) since 2015)
+🏀 Basketball (I am a big fan of [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry) since 2015), 🏸 Badminton, 🥾 Hiking, 💪 Fitness, 📺 Watching comedy variety (⭐ 喜单, 🎤 脱友, 😂 喜人, 🐒 新西游记)
